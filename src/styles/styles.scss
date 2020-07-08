@@ -1,0 +1,8 @@
+@import './base/setting';
+@import './base/base';
+
+body {
+  background: $main-white;
+  color: $main-black;
+  font-family: Arial, Helvetica, sans-serif;
+}
